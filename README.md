@@ -1,3 +1,2 @@
 # Cutting-Stock
-Problema onde o foco é:
-obter a máxima produção com a mínima perda de material.
+Foco do problema: produzir mais e perder menos material por meio de cortes.
