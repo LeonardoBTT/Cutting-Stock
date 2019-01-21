@@ -4,7 +4,7 @@
 #   tshirt.py
 #
 # DESCRICAO
-#   Procura as melhores combinacoes de corte de camisetas.
+#   Procura as melhores combinacoes de cortes de camisetas.
 #
 ################
 
