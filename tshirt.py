@@ -1,8 +1,12 @@
+################
+#
 # NOME
 #   tshirt.py
 #
 # DESCRICAO
 #   Procura as melhores combinacoes de corte de camisetas.
+#
+################
 
 
 import math
