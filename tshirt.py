@@ -12,6 +12,8 @@
 ## E-mail:
 ## leonardo.bits@gmail.com
 ##
+## Ainda não funciona!
+##
 #############################################################
 
 import math
