@@ -1,13 +1,18 @@
-################
-#
-# NOME
-#   tshirt.py
-#
-# DESCRICAO
-#   Procura as melhores combinacoes de cortes de camisetas.
-#
-################
-
+#############################################################
+##
+## NOME
+##   tshirt.py
+##
+## DESCRICAO
+##   Procura as melhores combinacoes de cortes de camisetas.
+##
+## Escrito por:
+## leonardo bittencourt da silva
+##
+## E-mail:
+## leonardo.bits@gmail.com
+##
+#############################################################
 
 import math
 import numpy as np
