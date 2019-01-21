@@ -12,7 +12,7 @@
 ## E-mail:
 ## leonardo.bits@gmail.com
 ##
-## Ainda não funciona!
+## Essa caralha ainda não funciona.
 ##
 #############################################################
 
